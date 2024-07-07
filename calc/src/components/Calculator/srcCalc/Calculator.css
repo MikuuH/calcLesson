@@ -1,0 +1,26 @@
+.main-container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.calculator {
+    flex: 1;
+    height: 200px;
+    background-color: rgb(39, 41, 41);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.btn {
+    background-color: rgb(103, 109, 109);
+    margin-top: 10px;
+}
